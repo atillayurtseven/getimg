@@ -17,6 +17,15 @@ To use this library, first clone the repository:
 ```sh
 git clone https://github.com/atillayurtseven/getimg.git
 cd getimg
+python -m venv venv
+```
+Windows
+```sh
+venv\Scripts\activate
+```
+Mac
+```sh
+source venv/bin/activate
 ```
 
 Then install the required dependencies:

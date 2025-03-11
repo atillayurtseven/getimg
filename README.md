@@ -48,6 +48,7 @@ payload = {
 }
 img = getimg.flux_schnell.text_to_image(payload, save_to_file="./out.jpeg")
 ```
+![Output](out.jpeg)
 
 ### Image-to-Image Example
 
